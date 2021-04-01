@@ -16,11 +16,11 @@ By default, data stored on Skynet is stored in plain-text. Communications on the
 * Portal operating costs are paid by operators, but we encourage users to support portal operators, developers, and content creators by signing up for a user account.
 * Skynet is open-source, so the code is available for anyone to freely use.
 
-See [Webportals on Skynet](../web-portals-on-skynet.md#portal-operating-costs).
+See [Webportals on Skynet](../getting-started/web-portals-on-skynet.md#portal-operating-costs).
 
 ## Is Skynet censorship-free?
 
-Not really. We say "censorship-resistant," because the infrastructure makes it extremely difficult to censor or deplatform data and applications across the entirety of Skynet. That said, portals operate their own "blocklists." Users cannot download a file from a portal if it is on its blocklist. This helps to protect portal operators. The code for running a portal is free and open-source, so users can always run their own portal if they do not agree with the decisions made by another portal operator. See [Web Portals on Skynet](../web-portals-on-skynet.md#blocklists) and [Running a Web Portal](../the-technology/running-a-web-portal.md).
+Not really. We say "censorship-resistant," because the infrastructure makes it extremely difficult to censor or deplatform data and applications across the entirety of Skynet. That said, portals operate their own "blocklists." Users cannot download a file from a portal if it is on its blocklist. This helps to protect portal operators. The code for running a portal is free and open-source, so users can always run their own portal if they do not agree with the decisions made by another portal operator. See [Web Portals on Skynet](../getting-started/web-portals-on-skynet.md#blocklists) and [Running a Web Portal](../the-technology/running-a-web-portal.md).
 
 ## How fast is Skynet?
 
@@ -32,11 +32,11 @@ Skynet is secure because Sia is secure. Also, by designing our ecosystem around 
 
 ## What is "pinning"?
 
-When a portal "pins" a skyfile on Skynet, they are telling the network that they are willing to continue paying for the storage costs of that file. Any number of portals can pin the same skyfile, and as long as the file is pinned, it will be available on Skynet. See [Web Portals on Skynet](../web-portals-on-skynet.md#file-pinning) for more.
+When a portal "pins" a skyfile on Skynet, they are telling the network that they are willing to continue paying for the storage costs of that file. Any number of portals can pin the same skyfile, and as long as the file is pinned, it will be available on Skynet. See [Web Portals on Skynet](../getting-started/web-portals-on-skynet.md#file-pinning) for more.
 
 ## How does Skynet use Siacoins?
 
-Skynet portals pay hosts on the Sia network in Siacoins. You do not need Siacoins or a wallet to use Skynet in your browser. For more information on costs, see [Is Skynet Free?](faqs.md#is-skynet-free-who-pays-for-storage-on-skynet) When monetization is released, developers and content creators will earn Siacoins, but payouts will be made by portals, not directly by Skynet users. 
+Skynet portals pay hosts on the Sia network in Siacoins. You do not need Siacoins or a wallet to use Skynet in your browser. For more information on costs, see [Is Skynet Free?](faqs.md#is-skynet-free-who-pays-for-storage-on-skynet) When monetization is released, developers and content creators will earn Siacoins, but payouts will be made by portals, not directly by Skynet users.
 
 ## Are there file size or bandwidth limits on Skynet?
 

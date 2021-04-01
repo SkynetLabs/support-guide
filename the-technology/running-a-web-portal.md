@@ -2,7 +2,7 @@
 
 ## Web Portal Components
 
-Skynet Web Portals consist of all the components needed to operate a publically accessible portal allowing access to the full Skynet ecosystem. 
+Skynet Web Portals consist of all the components needed to operate a publically accessible portal allowing access to the full Skynet ecosystem.
 
 The web portal consists of:
 

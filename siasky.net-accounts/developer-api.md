@@ -6,7 +6,7 @@ At the moment, there is not an officially supported way for developers or advanc
 Some users have tried attaching exporting the JWT from their browser cookie and including it with CLI requests. While this may work before the token expires, this method may not continue to work.
 {% endhint %}
 
-### Future Plans
+## Future Plans
 
 We plan to support account usage outside of the browser in a future update of the web portal.
 

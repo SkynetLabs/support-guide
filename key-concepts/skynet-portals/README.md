@@ -1,7 +1,7 @@
 # Portals
 
 {% hint style="danger" %}
-This documentation is still being worked on. For a brief introduction, see [Web Portals on Skynet](../../web-portals-on-skynet.md).
+This documentation is still being worked on. For a brief introduction, see [Web Portals on Skynet](../../getting-started/web-portals-on-skynet.md).
 {% endhint %}
 
 ## Overview

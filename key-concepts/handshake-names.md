@@ -1,7 +1,7 @@
 # Handshake Names
 
 {% hint style="danger" %}
-Our full documentation is still being worked on. In the meantime, here is a quick overview along with links to various resources. For a brief intro, see [Accessing Data on Skynet](../accessing-data-on-skynet.md#handshake-names).
+Our full documentation is still being worked on. In the meantime, here is a quick overview along with links to various resources. For a brief intro, see [Accessing Data on Skynet](../getting-started/accessing-data-on-skynet.md#handshake-names).
 {% endhint %}
 
 ## What is Handshake?
@@ -46,13 +46,13 @@ Using a `sia://` record may be easier at first, but since you're linking to immu
 
 ## Does Your HNS Name use Skynet?
 
-{% embed url="https://codesandbox.io/s/skynet-guide-widgets-jp5wt?codemirror=0&view=preview&fontsize=12&hidenavigation=1&theme=light&hidedevtools=1&initialpath=%2F%23%2Fhns-lookup" %}
+{% embed url="https://codesandbox.io/s/skynet-guide-widgets-jp5wt?codemirror=0&view=preview&fontsize=12&hidenavigation=1&theme=light&hidedevtools=1&initialpath=%2F%23%2Fhns-lookup" caption="" %}
 
 ## Further Reading
 
-{% embed url="https://learn.namebase.io/about-handshake/about-handshake" %}
+{% embed url="https://learn.namebase.io/about-handshake/about-handshake" caption="" %}
 
-{% embed url="https://blog.sia.tech/skynet-handshake-d5d16e6b632f" %}
+{% embed url="https://blog.sia.tech/skynet-handshake-d5d16e6b632f" caption="" %}
 
-{% embed url="https://learn.namebase.io/community-discussions/developing-on-handshake" %}
+{% embed url="https://learn.namebase.io/community-discussions/developing-on-handshake" caption="" %}
 

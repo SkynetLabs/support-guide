@@ -16,7 +16,7 @@ There are many reasons an upload or download that should be displayed is not:
 
 When using Skynet applications, they may save or load data on your behalf. Just like on the traditional web, this happens very often while browsing a website. Some of the saved or loaded material may never even show up in your web browser. In future releases, developers will be able to have more fine-grained control over files that get pinned to your account.
 
-## Why is my small file appearing as a 14MB upload? Why does my upload say 55.9 MB? 
+## Why is my small file appearing as a 14MB upload? Why does my upload say 55.9 MB?
 
 See [Understanding Data Usage](understanding-data-usage.md#upload-calculations).
 
@@ -24,7 +24,7 @@ See [Understanding Data Usage](understanding-data-usage.md#upload-calculations).
 
 To ensure reliability, files uploaded to Siasky.net are currently limited to 1GB. We're working to greatly improve this cap in a future web portal update.
 
-##  Can I pay for my account subscription in Siacoins?
+## Can I pay for my account subscription in Siacoins?
 
 Not at the moment. We hope to make this feature available in the future, but it's not on our short-term roadmap.
 
@@ -38,7 +38,7 @@ We're aware of this annoyance and working on a solution that balances security a
 
 ## I have a coupon. Where do I use it?
 
-Coupons are applied in Stripe's checkout interface. See [Sign-up & Pick a Tier](sign-up-and-pick-a-tier.md#using-a-coupon-code). If you already have a subscription or have a canceled subscription, Stripe may not present you with a way to use your coupon. 
+Coupons are applied in Stripe's checkout interface. See [Sign-up & Pick a Tier](sign-up-and-pick-a-tier.md#using-a-coupon-code). If you already have a subscription or have a canceled subscription, Stripe may not present you with a way to use your coupon.
 
 ## I already have an account with SkyID/MySky/Sia-UI, do I need a portal account?
 

@@ -8,11 +8,11 @@ Skyrocket is the name for the technology that supports Skynet's exceptional spee
 
 ## Further Reading
 
-Chris Schinnerl, Core Developer at Skynet Labs, has written wonderful guides outlining each component.
+Chris Schinnerl , Core Developer at Skynet Labs, has written wonderful guides outlining each component.
 
-{% embed url="https://blog.sia.tech/reducing-latency-96-by-switching-p2p-platform-skynet-to-a-multiplexer-ddb4bbcf0b67" %}
+{% embed url="https://blog.sia.tech/reducing-latency-96-by-switching-p2p-platform-skynet-to-a-multiplexer-ddb4bbcf0b67" caption="" %}
 
-{% embed url="https://blog.sia.tech/optimizing-payment-channels-to-achieve-cdn-latencies-skyrocket-part-2-1ac6fcca58ae" %}
+{% embed url="https://blog.sia.tech/optimizing-payment-channels-to-achieve-cdn-latencies-skyrocket-part-2-1ac6fcca58ae" caption="" %}
 
-{% embed url="https://blog.sia.tech/verifiable-computation-on-skynet-using-a-merklized-virtual-machine-a4a24c7b9ec" %}
+{% embed url="https://blog.sia.tech/verifiable-computation-on-skynet-using-a-merklized-virtual-machine-a4a24c7b9ec" caption="" %}
 

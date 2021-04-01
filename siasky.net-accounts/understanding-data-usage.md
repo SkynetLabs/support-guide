@@ -18,7 +18,7 @@ We're aware of the confusion users are facing with these numbers and plan to fin
 
 ### Application Uploads
 
-When using Skynet applications, they will often save data to Skynet in the background. This usually takes the form of formatted text \(called JSON\) and it might be a post you made, your friend list, or your user profile. The files are important data for the Skynet apps and will be attached to your portal account so that they remained pinned and available on Skynet. 
+When using Skynet applications, they will often save data to Skynet in the background. This usually takes the form of formatted text \(called JSON\) and it might be a post you made, your friend list, or your user profile. The files are important data for the Skynet apps and will be attached to your portal account so that they remained pinned and available on Skynet.
 
 ## Download Usage
 

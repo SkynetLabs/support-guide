@@ -4,12 +4,10 @@
 
 ## Getting Started
 
----
-
-* [Using Skynet](using-skynet.md)
-* [Skynet Basics](skynet-basics.md)
-* [Accessing Data on Skynet](accessing-data-on-skynet.md)
-* [Web Portals on Skynet](web-portals-on-skynet.md)
+* [Using Skynet](getting-started/using-skynet.md)
+* [Skynet Basics](getting-started/skynet-basics.md)
+* [Accessing Data on Skynet](getting-started/accessing-data-on-skynet.md)
+* [Web Portals on Skynet](getting-started/web-portals-on-skynet.md)
 
 ## Key Concepts
 

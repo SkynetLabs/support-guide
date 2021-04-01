@@ -2,7 +2,7 @@
 
 _The following article was published by Sia co-founder and Skynet Labs CEO David Vorick in February 2021. It provides a great overview of Skynet, its technology, and its vision for the future._
 
-{% embed url="https://blog.sia.tech/a-deep-dive-into-skynet-a0fa037feea" %}
+{% embed url="https://blog.sia.tech/a-deep-dive-into-skynet-a0fa037feea" caption="" %}
 
 ## What is Skynet? <a id="1af0"></a>
 

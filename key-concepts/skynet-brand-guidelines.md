@@ -1,6 +1,6 @@
 # Skynet Brand Guidelines
 
-#### Brand guidelines for Skynet in your project or site <a id="brand_guidelines_for_skynet_in_your_project_or_site"></a>
+## Brand guidelines for Skynet in your project or site <a id="brand_guidelines_for_skynet_in_your_project_or_site"></a>
 
 Community and third-party \(non-core\) projects are an essential part of the Skynet ecosystem. They expand the use-cases for Skynet, and improve the network with solutions we aren’t actively working on.
 
@@ -14,11 +14,11 @@ You worked hard on your project, and we want it to stand out!
 
 In an effort to promote these goals, please use the following as guidelines when developing your brand.
 
-#### Official Skynet assets <a id="official_sia_assets"></a>
+## Official Skynet assets <a id="official_sia_assets"></a>
 
 [Here you go](https://siasky.net/CAAtZgB80KZVKzMzRBgwvgSr0gejojcm49TyoDB8nnTzQQ). It includes our logo and wordmark in vector formats.
 
-#### Naming your project <a id="naming_your_project"></a>
+## Naming your project <a id="naming_your_project"></a>
 
 You have a lot of freedom here. Feel free to use the word “Skynet” however you want in your project, with two exceptions:
 
@@ -30,7 +30,7 @@ Current examples of good naming in the community are: SkyGallery, SkyLive, and S
 
 You can also create a wonderfully custom name that represents you or your work. Some examples are projects like Atlas Library System, DappDappGo, and Wakio.
 
-#### Logo and Wordmark <a id="logo_and_wordmark"></a>
+## Logo and Wordmark <a id="logo_and_wordmark"></a>
 
 We’re a little more strict on this one. We’d prefer that your project not use the Skynet logo or wordmark directly in any capacity, but you can style on it as long as a normal user wouldn’t confuse it for the real thing.
 
@@ -39,7 +39,7 @@ A good example is SkySpaces:
 
 It uses a modern font and draws from the standard Sia logo for its logo. This isn't too close to either the Skynet or Sia logos, but it's representative of the work it does and references the originals without stepping too far.
 
-#### Color <a id="color"></a>
+## Color <a id="color"></a>
 
 Skynet's primary color is **\#58b560**.
 

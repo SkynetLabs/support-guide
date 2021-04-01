@@ -2,7 +2,7 @@
 
 You can blocklist content on your Skynet portal. The blocklist will prevent skylinks from being downloaded. Since Skynet blocklist by merkleroot, this will also prevent uploads of the same underlying data \(and therefore pinning the files\) that would resolve to the same skylink and merkleroot.
 
-### Command-Line
+## Command-Line
 
 The command for blocking a file using `siac` is
 
@@ -16,7 +16,7 @@ For example, you want to blocklist`sia://ABCdefGHIjklMNOpqrSTUvwxYZ1234567890123
 siac skynet blocklist ABCdefGHIjklMNOpqrSTUvxwYZ12345678901234567890
 ```
 
-### Using the API
+## Using the API
 
 You can also use the Sia API to add or remove multiple links at a time. This is especially useful for portals that want to share blocklists with each other. For more examples, refer to the [Sia API Docs](https://sia.tech/docs/#skynet-blocklist-post).
 

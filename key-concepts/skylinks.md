@@ -1,7 +1,7 @@
 # Skylinks
 
 {% hint style="danger" %}
-Our full documentation is still being worked on. In the meantime, here is a quick overview along with links to various resources. For a brief intro, see [Accessing Data on Skynet](../accessing-data-on-skynet.md#handshake-names).
+Our full documentation is still being worked on. In the meantime, here is a quick overview along with links to various resources. For a brief intro, see [Accessing Data on Skynet](../getting-started/accessing-data-on-skynet.md#handshake-names).
 {% endhint %}
 
 ## Overview
@@ -25,5 +25,5 @@ This is useful in a variety of scenarios, but especially for web applications th
 
 The widget below shows what this looks like. Here's a [link](https://siasky.net/CADIvje1Fdy2FP2TeBsYAbHfUsNug98wE7SYArdyczDaDg) to try.
 
-{% embed url="https://codesandbox.io/s/skynet-guide-widgets-jp5wt?codemirror=0&view=preview&fontsize=12&hidenavigation=1&theme=light&hidedevtools=1&initialpath=%2F%23%2Fbase32-subdomain" %}
+{% embed url="https://codesandbox.io/s/skynet-guide-widgets-jp5wt?codemirror=0&view=preview&fontsize=12&hidenavigation=1&theme=light&hidedevtools=1&initialpath=%2F%23%2Fbase32-subdomain" caption="" %}
 
