@@ -45,14 +45,14 @@ SDKs marked with \* above are not fully implemented – only `skynet-js` impleme
 
 ### Guides and Walkthroughs
 
-* \*\*\*\*[**Skynet Workshop**](https://github.com/SkynetHQ/skynet-workshop) – A workshop that builds on skills showing various parts of developing with Skynet. Watch Daniel [walk through the workshop](https://www.youtube.com/watch?v=3VlQQDPkTPk) for the ENCODE Hackathon or visit the [companion skapp](https://encode-skynet.hns.siasky.net/) which includes code samples and interactive widgets.
+* [**Skynet Workshop**](https://github.com/SkynetHQ/skynet-workshop) – A workshop that builds on skills showing various parts of developing with Skynet. Watch Daniel [walk through the workshop](https://www.youtube.com/watch?v=3VlQQDPkTPk) for the ENCODE Hackathon or visit the [companion skapp](https://encode-skynet.hns.siasky.net/) which includes code samples and interactive widgets.
 * [**Automated Deployments on Skynet**](https://blog.sia.tech/automated-deployments-on-skynet-28d2f32f6ca1) – Blog post walking through how to use Github for automated build uploads and HNS updates
 * [**SkyDB Example: A Note-to-Self App**](https://blog.sia.tech/skydb-example-a-note-to-self-app-ccd4e7ba31ba) – A tutorial showing SkyDB usage with React. [Code here](https://github.com/kwypchlo/skydb-example).
 
 ### Deployment Tooling
 
 * [**skynet-cli**](https://github.com/SkynetHQ/skynet-cli) – Great tool for uploading directories from the command line.
-* \*\*\*\*[**Deploy to Skynet Github Action**](https://github.com/kwypchlo/deploy-to-skynet-action) – Github action that deploys a directory to Skynet and comments on pull request with a skylink url. See [Automated deployments on Skynet](https://blog.sia.tech/automated-deployments-on-skynet-28d2f32f6ca1) for using with Handshake.
+* [**Deploy to Skynet Github Action**](https://github.com/kwypchlo/deploy-to-skynet-action) – Github action that deploys a directory to Skynet and comments on pull request with a skylink url. See [Automated deployments on Skynet](https://blog.sia.tech/automated-deployments-on-skynet-28d2f32f6ca1) for using with Handshake.
 * [**Upload2Cloud**](https://github.com/cycleworm/Upload2Cloud) – Windows Explorer integration for sending files and directories to Skynet. Python script available.
 * [**Vue CLI Deployment Plugin**](https://github.com/Delivator/vue-cli-plugin-skynet) – Vue UI based tool for site upload with auto Namebase/Handshake updates
 * [**SkyDeploy**](https://github.com/redsolver/skydeploy) – Command-Line Tool for easily deploying web apps on Skynet and setting the skyns records to point your HNS domain to the new version
@@ -61,7 +61,7 @@ SDKs marked with \* above are not fully implemented – only `skynet-js` impleme
 
 * [**py-skydb**](https://github.com/PowerLoom/py-skydb) – Python Wrapper that you can use to interact with SkyDB portals
 * [**Skynet SDK for Dart**](https://github.com/redsolver/skynet) – Use Sia Skynet and SkyDB in your Dart and Flutter projects
-* \*\*\*\*[**Skystandards**](https://github.com/SkynetHQ/skystandards) – a proposal for data standards to be adopted in Skynet applications in such a way that users can share and use their data in different Skynet apps
+* [**Skystandards**](https://github.com/SkynetHQ/skystandards) – a proposal for data standards to be adopted in Skynet applications in such a way that users can share and use their data in different Skynet apps
 
 ## Is Skynet the right platform for my website/app?
 
