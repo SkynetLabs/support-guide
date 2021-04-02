@@ -18,7 +18,7 @@
   * [Blocklisting Content on Your Portal](key-concepts/skynet-portals/blocklisting-content-on-your-portal.md)
 * [Handshake Names](key-concepts/handshake-names.md)
 * [Skynet Brand Guidelines](key-concepts/skynet-brand-guidelines.md)
-* [Navigating the Skynet rebrand](key-concepts/navigating-the-skynet-rebrand.md)
+* [Navigating the Skynet rebrand](key-concepts/skynet-rebrand.md)
 * [FAQs](key-concepts/faqs.md)
 
 ## The Technology
