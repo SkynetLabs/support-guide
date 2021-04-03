@@ -25,7 +25,7 @@ Here's the changes that you'll see.
 
 #### Development
 
-* [https://gitlab.com/skynetHQ](https://gitlab.com/skynetHQ) \(moved from [https://gitlab.com/NebulousLabs](https://gitlab.com/NebulousLabs)\) is the daemon code for the Sia node
+* [https://gitlab.com/SkynetHQ](https://gitlab.com/skynetHQ) \(moved from [https://gitlab.com/NebulousLabs](https://gitlab.com/NebulousLabs)\) is the daemon code for the Sia node
 * [https://github.com/SkynetHQ](https://github.com/SkynetHQ) \(moved from [https://github.com/NebulousLabs](https://github.com/NebulousLabs)\) is the Web Dev Skynet Code. So webportal, SDKs, Accounts, etc.
 * [https://gitlab.com/NebulousLabs](https://gitlab.com/NebulousLabs) is getting archived after all relevant repos are moved to Skynet or the Foundation.
 * [https://github.com/NebulousLabs](https://github.com/NebulousLabs) repos were previously archived when we moved to [https://gitlab.com/NebulousLabs](https://gitlab.com/NebulousLabs)
