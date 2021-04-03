@@ -19,7 +19,7 @@ Here's the changes that you'll see.
 | Discord | /sia | [https://discord.gg/skynetlabs](https://discord.gg/skynetlabs) |
 | Facebook | @Siacoin | [@SkynetLabsHQ](https://www.facebook.com/SkynetLabsHQ) |
 
-Some things aren't so easy to split up.
+Some things aren't so easy to split up, or still benefit both communities enough to keep them blended for now.
 
 * We'll continue to make Skynet and Sia related annnouncements through the [Siacoin Blockfolio Signal](https://blockfolio.com/coin/SC) account.
 * We'll continue to share the [r/siacoin](https://www.reddit.com/r/siacoin/) subreddit with the Sia Foundation for now.
