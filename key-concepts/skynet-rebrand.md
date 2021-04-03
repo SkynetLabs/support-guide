@@ -21,9 +21,7 @@ Here's the changes that you'll see.
 
 Some things aren't so easy to split up, or still benefit both communities enough to keep them blended for now.
 
-* We'll continue to make Skynet and Sia related annnouncements through the [Siacoin Blockfolio Signal](https://blockfolio.com/coin/SC) account.
-* We'll continue to share the [r/siacoin](https://www.reddit.com/r/siacoin/) subreddit with the Sia Foundation for now.
-* We'll continue to share the [YouTube channel](http://youtube.com/c/siatvofficial) for Skynet and Sia related announcements.
+* We'll continue to share the [Siacoin Blockfolio Signal](https://blockfolio.com/coin/SC) account, the [r/siacoin](https://www.reddit.com/r/siacoin/) subreddit, and the [YouTube channel](http://youtube.com/c/siatvofficial) with the Sia Foundation.
 
 #### Development
 
