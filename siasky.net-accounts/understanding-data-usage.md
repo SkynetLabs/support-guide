@@ -4,7 +4,7 @@
 
 It's important to know that upload sizes won't always match the size of the files you're uploading.
 
-The reason comes down to how files are stored on the Sia network and how much redundancy your data has. For more info on how Skynet uses Sia, see [Skynet Basics](https://support.siasky.net/skynet-basics).
+The reason comes down to how files are stored on the Sia network and how much redundancy your data has. For more info on how Skynet uses Sia, see [Skynet Basics](../getting-started/skynet-basics.md).
 
 ### Upload Calculations
 
