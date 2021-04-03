@@ -2,9 +2,11 @@
 
 ![](../.gitbook/assets/skynet-banner.png)
 
-With the launch of Skynet, Nebulous' focus shifted from building the leading decentralized data storage platform to enabling a user-controlled, truly decentralized internet. As we embrace the rich legacy and the solid foundation of Sia and assimilate our new mission, it is important that our brand evolves.
+With the launch of Skynet, Nebulous' focus shifted from building the leading decentralized data storage platform to enabling a user-controlled, truly decentralized internet. As a result, our company has completely [rebranded into Skynet Labs](https://blog.sia.tech/introducing-skynet-labs-434c852cce07), with all our attention on developing Skynet and its ecosystem.
 
-Our team and the community also frequently used the terms Nebulous/Sia/Skynet to refer to the same product and/or people. As Skynet Labs emerges and the Sia Foundation takes shape, we're taking steps to more clearly differentiate the brands across our social platforms.
+The Sia storage network is now under the custody of the [Sia Foundation](https://blog.sia.tech/launching-the-sia-foundation-ee47dfab4d2c), a nonprofit that will develop Sia from here on out.
+
+Our team and the community also frequently used the terms Nebulous/Sia/Skynet to refer to the same products and/or people. As Skynet Labs emerges and the Sia Foundation takes shape, we're taking steps to more clearly differentiate the brands across our social platforms.
 
 Here's the changes that you'll see.
 
