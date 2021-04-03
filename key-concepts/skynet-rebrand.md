@@ -17,11 +17,13 @@ Here's the changes that you'll see.
 | Our company name | Nebulous | Skynet Labs |
 | Twitter | @SiaTechHQ | [@SkynetLabs](https://twitter.com/skynetlabs) |
 | Discord | /sia | [https://discord.gg/skynetlabs](https://discord.gg/skynetlabs) |
-| Facebook | @Siacoin | @SkynetLabsHQ |
+| Facebook | @Siacoin | [@SkynetLabsHQ](https://www.facebook.com/SkynetLabsHQ) |
 
-* We'll continue to make Skynet and Sia related annnouncements through the Siacoin Blockfolio Signal account.
-* We'll continue to share the r/siacoin subreddit with the Sia Foundation for now.
-* We'll continue to share the YouTube channel for Skynet and Sia related announcements.
+Some things aren't so easy to split up.
+
+* We'll continue to make Skynet and Sia related annnouncements through the [Siacoin Blockfolio Signal](https://blockfolio.com/coin/SC) account.
+* We'll continue to share the [r/siacoin](https://www.reddit.com/r/siacoin/) subreddit with the Sia Foundation for now.
+* We'll continue to share the [YouTube channel](http://youtube.com/c/siatvofficial) for Skynet and Sia related announcements.
 
 #### Development
 
