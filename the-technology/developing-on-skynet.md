@@ -27,6 +27,17 @@ This works for static sites, along with client-side rendered Single Page Applica
 Using `create-react-app`? Add `"homepage": "."` to your `package.json` before you build, then just upload your build folder!
 {% endhint %}
 
+## skynet-js 4.0@beta with MySky and DACs
+
+We just release major new features and breaking changes in our `skynet-js` SDK. As we get the documentation together for the new features and breaking changes, you can start learning using these resources.
+
+* \*\*\*\*[**Skynet SDK Docs v4 Update Guide**](https://siasky.net/docs/v4/#updating-from-v3) – Documents breaking changes from v3 and outlines the update
+* \*\*\*\*[**Skynet Workshop**](https://github.com/SkynetLabs/skynet-workshop) – The latest version of the workshop includes MySky and DAC sections showing the basic functionality of each. _Also see_: [video recording](https://www.youtube.com/watch?v=TDiLdHQidBE) and [companion app](https://my-sky.hns.siasky.net/).
+* \*\*\*\*[**Content Record Viewer**](https://skey.hns.siasky.net/) – Temporary home for sample app that reviews Content Record data.
+* \*\*\*\*[**Content Record Library Repo**](https://github.com/SkynetHQ/content-record-library) – When using a DAC, you import their library in your code so make calling the API of the DAC iframe simpler. This repo documents the Content Record DAC methods.
+
+![MySky and DAC iframe relationship to Host App](../.gitbook/assets/host-loading-mysky.png)
+
 ## Tools and Resources
 
 Official Documentation and SDKs
