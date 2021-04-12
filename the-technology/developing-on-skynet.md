@@ -32,7 +32,7 @@ Using `create-react-app`? Add `"homepage": "."` to your `package.json` before yo
 We just release major new features and breaking changes in our `skynet-js` SDK. As we get the documentation together for the new features and breaking changes, you can start learning using these resources.
 
 * \*\*\*\*[**Skynet SDK Docs v4 Update Guide**](https://siasky.net/docs/v4/#updating-from-v3) – Documents breaking changes from v3 and outlines the update
-* \*\*\*\*[**Skynet Workshop**](https://github.com/SkynetLabs/skynet-workshop) – The latest version of the workshop includes MySky and DAC sections showing the basic functionality of each. _Also see_: [video recording](https://www.youtube.com/watch?v=TDiLdHQidBE) and [companion app](https://my-sky.hns.siasky.net/).
+* \*\*\*\*[**Skynet Workshop**](https://github.com/SkynetLabs/skynet-workshop) – The latest version of the workshop includes MySky and DAC sections showing the basic functionality of each. _Also see -_ [video recording](https://www.youtube.com/watch?v=TDiLdHQidBE), [deployed project](http://snew.hns.siasky.net/) and [companion app](https://my-sky.hns.siasky.net/).
 * \*\*\*\*[**Content Record Viewer**](https://skey.hns.siasky.net/) – Temporary home for sample app that reviews Content Record data.
 * \*\*\*\*[**Content Record Library Repo**](https://github.com/SkynetHQ/content-record-library) – When using a DAC, you import their library in your code so make calling the API of the DAC iframe simpler. This repo documents the Content Record DAC methods.
 
