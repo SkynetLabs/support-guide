@@ -12,7 +12,13 @@ In an effort to promote these goals, please use the following as guidelines when
 
 ## Official Skynet assets
 
-[Get them here](https://siasky.net/HAAPfF0RvopZHQuqRu5XTJ8Rrs9PU1NHueewYNt1-GhKIQ). It includes our logo and wordmark in vector and .png formats.
+[Get them here](https://siasky.net/nAHuPOfQ_Aj6D5nOuUtIVlLUDSK0zju7dMxAnpOjKYpamA). It includes our logo and wordmark in vector and .png formats.
+
+## `built with Skynet`
+
+![](../.gitbook/assets/built-with-skynet.png)
+
+If you are building a project featuring Slynet, use the `built with Skynet` logo to showcase your integration. You can drop this in the app, website, or anywhere else that makes sense.
 
 ## Naming your project
 
