@@ -80,7 +80,7 @@ If your website is structured to be client-side, then hosting it on Skynet is st
 
 So, if you use Create React App or Gatsby, deploying to Skynet is as easy as uploading the folder of your production build. If you use a server-side backend like ExpressJS or a CMS like Django or Wordpress, these parts of your website cannot be run on Skynet. You can, however, host your html, css and javascript code on Skynet with your server API elsewhere, but that's not really a decentralized application and isn't what we'd call a skapp.
 
-If you're considering developing on Skynet, take a look at the [Getting Started](../getting-started/using-skynet.md) section to learn some basics or reach out on our [Discord server](http://discord.gg/sia) in the `#skynet` or `#app-dev` channels.
+If you're considering developing on Skynet, take a look at the [Getting Started](../getting-started/using-skynet.md) section to learn some basics or reach out on our [Discord server](https://discord.gg/skynetlabs) in the `#skynet` or `#app-dev` channels.
 
 ## Best Practices
 

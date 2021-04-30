@@ -50,9 +50,9 @@ Skynet itself is open-source software, meaning it's free to take and use for any
 
 Not finding the answers you want? Check out these additional support resources.
 
-### Sia Discord
+### Skynet Discord
 
-The Sia server on [Discord](https://discord.gg/sia) is a great place to find friendly help from the community and our team. Come say hello, ask a question and look for the `#skynet` channel.
+The Skynet server on [Discord](https://discord.gg/skynetlabs) is a great place to find friendly help from the community and our team. Come say hello and ask a question!
 
 ### YouTube Channel
 

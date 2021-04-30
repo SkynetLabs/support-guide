@@ -134,5 +134,5 @@ Finally, in the research department we’ve got a lot of eyes on privacy. We’v
 
 ## Diving Deeper <a id="d64e"></a>
 
-The best way to learn about Skynet is to join the Sia discord and start asking questions. You can join us at [https://discord.gg/sia/](https://discord.gg/sia.). If you want to learn more on your own, you can browse our [growing body of support documents](https://skynet-labs.gitbook.io/skynet-guide/the-technology/developing-on-skynet). And if you want to get started with Skynet in general, you can checkout our homepage at [https://siasky.net/](https://blog.sia.tech/siasky.net).
+The best way to learn about Skynet is to join our [Discord server](https://discord.gg/skynetlabs) and start asking questions. If you want to learn more on your own, you can browse our [growing body of support documents](https://skynet-labs.gitbook.io/skynet-guide/the-technology/developing-on-skynet). And if you want to get started with Skynet in general, you can checkout our homepage at [https://siasky.net/](https://blog.sia.tech/siasky.net).
 

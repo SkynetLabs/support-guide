@@ -53,5 +53,5 @@ The following are the only colors you should use to display the Skynet logo and 
 
 ![](../.gitbook/assets/skynet-color-rep.png)
 
-If you have any questions about the Skynet brand guidelines, send us an email or [join us in Discord](https://discord.gg/sia).
+If you have any questions about the Skynet brand guidelines, send us an email or [join us in Discord](https://discord.gg/skynetlabs).
 
