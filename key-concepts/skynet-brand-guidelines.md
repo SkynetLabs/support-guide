@@ -18,7 +18,7 @@ In an effort to promote these goals, please use the following as guidelines when
 
 ![](../.gitbook/assets/built-with-skynet.png)
 
-If you are building a project featuring Slynet, use the `built with Skynet` logo to showcase your integration. You can drop this in the app, website, or anywhere else that makes sense.
+If you are building a project featuring Skynet, use the `built with Skynet` logo to showcase your integration. You can drop this in the app, website, or anywhere else that makes sense.
 
 ## Naming your project
 
