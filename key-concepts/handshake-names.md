@@ -18,7 +18,7 @@ Skynet is built to support Handshake domains. Skynet Web Portals participate in 
 
 ## Accessing HNS Domains on Skynet
 
-The URL used to access HNS names on Skynet is `[hns-name].hns.[portal-domain]/` . Community members will often reference this as `[hns-name].hns/`. So, for example, a portal-specific URL for `skyfeed.hns/` is [http://skyfeed.hns.siasky.net/](http://skyfeed.hns.siasky.net).
+The URL used to access HNS names on Skynet is `[hns-name].hns.[portal-domain]/` . Community members will often reference this as `[hns-name]/`. So, for example, a portal-specific URL for `skyfeed/` is [http://skyfeed.hns.siasky.net/](http://skyfeed.hns.siasky.net).
 
 {% hint style="warning" %}
 Less commonly, you may also see `http://[portal-domain]/hns/[hns-name]/`, but this format will break many web apps and is not recommended.
