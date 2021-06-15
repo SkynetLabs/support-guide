@@ -9,7 +9,7 @@ description: >-
 
 ## What is Skynet?
 
-Skynet is an open protocol for hosting data and web applications on the decentralized web.
+Skynet is an open protocol for hosting data and web applications on the decentralized web using [Sia](https://sia.tech).
 
 Skynet decentralizes "the cloud" so that user and application data is not stored by \(and only accessible to\) a single, central authority. Instead, data is held in a decentralized manner, allowing it to be:
 
@@ -24,7 +24,7 @@ Want to dive straight in? Start with [Using Skynet](getting-started/using-skynet
 
 ## Why does Skynet matter?
 
-Skynet matters because information matters. Skynet allows for decentralized, censorship-resistant, highly redundant storage and applications, available around the globe.
+Skynet matters because information matters. Skynet allows for a decentralized web that is censorship-resistant, has highly redundant storage and applications, and is available around the globe.
 
 ### For developers
 
@@ -40,7 +40,7 @@ Skynet matters because information matters. Skynet allows for decentralized, cen
 * You experience a web free of targeted ads
 * You never have to put your privacy or security at risk
 
-There's a lot more to it, and by the end of this documentation, you'll see why a free and open web demands a platform like Skynet.
+There's a lot more to it, and by the end of this documentation, you'll see why a free and open decentralized web demands a platform like Skynet.
 
 ## Who controls Skynet?
 
