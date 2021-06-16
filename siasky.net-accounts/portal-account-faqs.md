@@ -42,5 +42,5 @@ Coupons are applied in Stripe's checkout interface. See [Sign-up & Pick a Tier](
 
 ## I already have an account with SkyID/MySky/Sia-UI, do I need a portal account?
 
-These accounts a distinct, and although we may support cross-application login in the future, these services do not overlap with your account for Siasky.net.
+These accounts are distinct, and although we may support cross-application login in the future, these services do not overlap with your account for Siasky.net.
 
