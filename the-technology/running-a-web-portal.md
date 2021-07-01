@@ -20,11 +20,11 @@ We're planning on making web portals easier to deploy and operate for technical 
 
 ## Getting Started
 
-To get started, check out the [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal) repo on Github. A comprehensive guide for setting up a web portal is available at [./setup-scripts/README.md](https://github.com/NebulousLabs/skynet-webportal/blob/master/setup-scripts/README.md).
+To get started, check out the [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal) repo on Github. A comprehensive guide for setting up a web portal is available at [./setup-scripts/README.md](https://github.com/SkynetLabs/skynet-webportal/blob/master/setup-scripts/README.md).
 
 ## Further Reading
 
-{% embed url="https://github.com/NebulousLabs/skynet-webportal/blob/master/setup-scripts/README.md" caption="Documentation for Setting up a Portal, including descriptions of each component" %}
+{% embed url="https://github.com/SkynetLabs/skynet-webportal/blob/master/setup-scripts/README.md" caption="Documentation for Setting up a Portal, including descriptions of each component" %}
 
 {% embed url="https://www.youtube.com/watch?v=Zx4hTrNfwuA&feature=youtu.be" caption="Video Overview of Portal Setup by Community Member lukehmcc" %}
 
