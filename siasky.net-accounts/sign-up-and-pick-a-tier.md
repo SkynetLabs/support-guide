@@ -2,7 +2,7 @@
 
 ## Sign Up for An Account
 
-Visit our [sign-up](https://secure.siasky.net/auth/registration) page to start the process of creating your account. Follow the on-screen instructions.
+Visit our [sign-up](https://account.siasky.net/auth/registration) page to start the process of creating your account. Follow the on-screen instructions.
 
 ## Account Tiers
 
