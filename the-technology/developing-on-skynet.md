@@ -67,6 +67,7 @@ SDKs marked with \* above are not fully implemented – only `skynet-js` impleme
 * [**Upload2Cloud**](https://github.com/cycleworm/Upload2Cloud) – Windows Explorer integration for sending files and directories to Skynet. Python script available.
 * [**Vue CLI Deployment Plugin**](https://github.com/Delivator/vue-cli-plugin-skynet) – Vue UI based tool for site upload with auto Namebase/Handshake updates
 * [**SkyDeploy**](https://github.com/redsolver/skydeploy) – Command-Line Tool for easily deploying web apps on Skynet and setting the skyns records to point your HNS domain to the new version
+* \*\*\*\*[**Load skynet-js Gist**](https://gist.github.com/m-cat/2d2c0dbaf805658537344c68f3d0f7ef) –Code snippet for loading `skynet-js` in browser, without build tools and without relying on a specific portal.
 
 ### Community SDKs & Initiatives
 

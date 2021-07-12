@@ -14,13 +14,13 @@ Premium accounts allow certain perks for users of the Skynet portal. The primary
 
 ### Tier Comparison
 
-| Tier Name | Storage Amount | Pin Duration | Cost |
-| :--- | :--- | :--- | :--- |
-| Unregistered | - | 90 Days | Free |
-| Free | 100 GB | Life of Account | Free |
-| Plus | 1 TB | Life of Account | $5/mo |
-| Pro | 4 TB | Life of Account | $20/mo |
-| Extreme | 20 TB | Life of Account | $80/mo |
+| Tier Name | Storage Amount | Pin Duration | Cost | File Size Limit | File Number Limit |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Unregistered | - | 90 Days | Free | 1 GB | - |
+| Free | 100 GB | Life of Account | Free | 100 GB | 2,500 |
+| Plus | 1 TB | Life of Account | $5/mo | 100 GB | 25,000 |
+| Pro | 4 TB | Life of Account | $20/mo | 100 GB | 100,000 |
+| Extreme | 20 TB | Life of Account | $80/mo | 100 GB | 500,000 |
 
 ## Using a Coupon code
 
