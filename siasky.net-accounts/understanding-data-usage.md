@@ -1,5 +1,9 @@
 # Understanding Data Usage
 
+{% hint style="warning" %}
+Our portal accounts now measure uploads by file size –not the size on the Sia network, as described below. We have also introduced [limits](sign-up-and-pick-a-tier.md#tier-comparison) to each tier for the number of uploads allowed. 
+{% endhint %}
+
 ## Upload Usage
 
 It's important to know that upload sizes won't always match the size of the files you're uploading.
