@@ -82,5 +82,5 @@ If you want to dive deeper into portals, how they work and how to run your own, 
 
 You made it through our Getting Started guide! Hopefully, you have a better grasp on Skynet, how it works, and why we're so excited about the future of the web.
 
-If you want to talk to other folks in the community or to get more involved, come introduce yourself on our [Discord server](https://discord.gg/skynetlabs)! If you want to dive deeper into the details and philosophy of Skynet, check out the articles in **Key Concepts**.
+If you want to talk to other folks in the community or to get more involved, come introduce yourself on our [Discord server](https://discord.gg/skynetlabs)! If you want to dive deeper into the details and philosophy of Skynet, check out the articles in the **Key Concepts** category of the guide.
 
