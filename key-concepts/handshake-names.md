@@ -41,7 +41,7 @@ Checkout [Developing on Skynet](../the-technology/developing-on-skynet.md#deploy
 {% endhint %}
 
 {% hint style="warning" %}
-Using a `sia://` record may be easier at first, but if you're linking to immutable content, you'll have to wait around 6 hours for the HNS blockchain records to update any time you make a change. By using `skyns://`  or a Skylink v2, you can update the registry entry at any time and the changes are immediately seen on Skynet.
+Using a `sia://` record may be easier at first, but if you're linking to immutable content, you may need to wait 30 minutes or more for the HNS blockchain records to update any time you make a change. By using `skyns://`  or a resolver skylink, you can update the underlying registry entry at any time and the changes are immediately seen on Skynet.
 {% endhint %}
 
 ## Does Your HNS Name use Skynet?
