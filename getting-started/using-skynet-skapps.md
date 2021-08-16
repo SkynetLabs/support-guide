@@ -22,7 +22,7 @@ Here are a few examples of applications built using Skynet to get you started.
 
 ### Social Media with SkyFeed
 
-Once you've got a SkyID, you can join a social network. [SkyFeed](https://skyfeed.hns.siasky.net/#/) lets you build a feed, all hosted on Skynet. In addition to posting rich media content, you can follow other feeds, comment, and save posts for future reference.
+Skynet is more than just file sharing though! You can join a social network. [SkyFeed](https://skyfeed.hns.siasky.net/#/) lets you build a feed, all hosted on Skynet. In addition to posting rich media content, you can follow other feeds, comment, and save posts for future reference.
 
 ### Discovering Skapps with Skynet App Store
 
