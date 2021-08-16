@@ -16,8 +16,6 @@ There are many reasons an upload or download that should be displayed is not:
 
 When using Skynet applications, they may save or load data on your behalf. Just like on the traditional web, this happens very often while browsing a website. Some of the saved or loaded material may never even show up in your web browser. In future releases, developers will be able to have more fine-grained control over files that get pinned to your account.
 
-## Why is my small file appearing as a 14MB upload? Why does my upload say 55.9 MB?
-
 See [Understanding Data Usage](understanding-data-usage.md#upload-calculations).
 
 ## What is the maximum size of a file upload?
