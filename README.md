@@ -19,7 +19,7 @@ Skynet decentralizes "the cloud" so that user and application data is not stored
 * And controlled by the user
 
 {% hint style="info" %}
-Want to dive straight in? Start with [Using Skynet](getting-started/using-skynet.md) in our **Getting Started** section.
+Want to dive straight in? Start with [Using Skynet](getting-started/using-skynet-skapps.md) in our **Getting Started** section.
 {% endhint %}
 
 ## Why does Skynet matter?
@@ -70,5 +70,5 @@ You can also follow what we're up to on [Twitter](https://twitter.com/SiaTechHQ)
 
 We've put together three guides for learning about Skynet: a user guide, a developer guide, and a portal operator guide. The user guide \(what you're reading now\) focuses on using Skynet, understanding its value, and documenting the technologies that make Skynet work. Additional guides for developers and portal operators are still under construction, but for now, the links at the top of the page point to our best available resources.
 
-If you're new to Skynet, start with [Using Skynet](getting-started/using-skynet.md) and go from there. We suggest developers and portal operators read through the entirety of the **Getting Started** articles before working through more specific documentation.
+If you're new to Skynet, start with [Using Skynet](getting-started/using-skynet-skapps.md) and go from there. We suggest developers and portal operators read through the entirety of the **Getting Started** articles before working through more specific documentation.
 

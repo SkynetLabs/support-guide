@@ -14,7 +14,7 @@ Does this imply that there are private portals and ones that aren't accessed thr
 
 As you've gone through the previous sections of this guide, you've actually been learning about and using web portals in each section. Let's recap some of what you've already seen about portals.
 
-In [Using Skynet](using-skynet.md#file-sharing-with-skynet-send), you saw that you could access skapps at URLs like [https://skynet-send.hns.siasky.net/](https://skynet-send.hns.siasky.net/) through your normal internet connection, with no sign-up or special software. You were accessing the app through the [https://siasky.net](https://siasky.net) portal.
+In [Using Skynet](using-skynet-skapps.md#file-sharing-with-skynet-send), you saw that you could access skapps at URLs like [https://skynet-send.hns.siasky.net/](https://skynet-send.hns.siasky.net/) through your normal internet connection, with no sign-up or special software. You were accessing the app through the [https://siasky.net](https://siasky.net) portal.
 
 In [Skynet Basics](skynet-basics.md#skynet-is-built-on-top-of-sia), you learned that one job of a portal is to act as a renter on the Sia network, which it uses for decentralized file storage. You [also saw](skynet-basics.md#skynet-in-action) that you could upload a file to one portal \(Siasky.net, which is owned and operated by Skynet Labs\) and instantly download that same file from any other portal on Skynet.
 

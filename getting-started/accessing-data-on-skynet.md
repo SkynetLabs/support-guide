@@ -59,12 +59,12 @@ You won't usually see them typed out, but when typed as URLs, registry entries l
 
 ## Handshake Names
 
-If you'll remember back to [Using Skynet](using-skynet.md#starting-with-skapps), none of the skapps had strange URLs. That's because they use something called Handshake Names \(or _HNS_\).
+If you'll remember back to [Using Skynet](using-skynet-skapps.md#starting-with-skapps), none of the skapps had strange URLs. That's because they use something called Handshake Names \(or _HNS_\).
 
 Handshake is a decentralized domain name project that Skynet Portals support out-of-the-box. Developers can bid on and purchase domain names and then link them to data and applications on Skynet. Let's look quickly at what this means for Skynet users.
 
 {% hint style="info" %}
-As we saw in [Using Skynet](using-skynet.md#starting-with-skapps), you'll typically see HNS links look like this:  
+As we saw in [Using Skynet](using-skynet-skapps.md#starting-with-skapps), you'll typically see HNS links look like this:  
 `https://<hns-name>.hns.siasky.net`
 {% endhint %}
 

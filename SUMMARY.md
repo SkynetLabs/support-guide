@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Using Skynet](getting-started/using-skynet.md)
+* [Using Skynet with Skapps](getting-started/using-skynet-skapps.md)
 * [Skynet Basics](getting-started/skynet-basics.md)
 * [Accessing Data on Skynet](getting-started/accessing-data-on-skynet.md)
 * [Web Portals on Skynet](getting-started/web-portals-on-skynet.md)
