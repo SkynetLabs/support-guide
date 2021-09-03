@@ -20,6 +20,10 @@ When you visit a page that uses MySky, you may already be logged in! If you've u
 
 If you need additional permissions or are not logged into MySky, you will be requested to Login or Sign Up.
 
+{% hint style="warning" %}
+Safari deviates from standard browser security practices, and because of this, it is unsupported by MySky. We hope to find a work-around in the future.
+{% endhint %}
+
 ### Signing Up
 
 Signing up is as easy as clicking "Sign Up." You'll be presented with a secret seed phrase that you'll want to save somewhere secure. This is your "password" or "recovery phrase" for you MySky account, so be sure not to lose it or share it with anyone.
