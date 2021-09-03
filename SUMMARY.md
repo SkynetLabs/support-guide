@@ -19,6 +19,7 @@
 * [Handshake Names](key-concepts/handshake-names.md)
 * [Skynet Brand Guidelines](key-concepts/skynet-brand-guidelines.md)
 * [Navigating the Skynet rebrand](key-concepts/skynet-rebrand.md)
+* [Homescreen](key-concepts/homescreen.md)
 * [FAQs](key-concepts/faqs.md)
 
 ## The Technology
