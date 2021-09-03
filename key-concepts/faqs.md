@@ -44,3 +44,9 @@ Skynet Web Portals currently support uploads of up to 1GB. If you [run your own 
 
 Portals pay for bandwidth costs, and your portal accounts will take bandwidth usage into consideration in your account's access tier. We do monitor to see if abuse is occurring on our web portal, and you can always [run your own portal](skynet-portals/using-a-sia-node-as-a-portal.md) if you're worried about bandwidth usage.
 
+## Why did the skylink for my file change when I re-uploaded it?
+
+If you are uploading a file you uploaded in the past, there are some cases in which you might get a different skylink. The file may have been altered, resulting in a new skylink. Additionally, the metadata in the upload affects the skylink. So, if your method of uploading has changed, or your uploader changes its default skyfile metadata settings, your skylink after uploading might be different too.
+
+If your original file is still available on Skynet, we recommend "re-pinning" the file instead of trying to upload the file again.
+
