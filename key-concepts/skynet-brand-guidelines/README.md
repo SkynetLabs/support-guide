@@ -16,7 +16,7 @@ In an effort to promote these goals, please use the following as guidelines when
 
 ## `built with Skynet`
 
-![](../.gitbook/assets/built-with-skynet.png)
+![](../../.gitbook/assets/built-with-skynet.png)
 
 If you are building a project featuring Skynet, use the `built with Skynet` logo to showcase your integration. You can drop this in the app, website, or anywhere else that makes sense.
 
@@ -45,13 +45,13 @@ It uses a modern font and draws from the standard Sia logo for its logo. This is
 
 Skynet's primary color is **\#00C65E** and uses two secondary colors.
 
-![](../.gitbook/assets/skynet-colors.png)
+![](../../.gitbook/assets/skynet-colors.png)
 
 If you use the exact Skynet logo or wordmark in any way, like to represent the fact that you integrate with Skynet on your site, the image should use the specific Skynet green, or black or gray for integration into UI elements. In other words, don't use our exact logo or wordmark and change the color to match your color scheme, unless it is to use a white logo for something like a dark-mode theme.
 
 The following are the only colors you should use to display the Skynet logo and wordmark:
 
-![](../.gitbook/assets/skynet-color-rep.png)
+![](../../.gitbook/assets/skynet-color-rep.png)
 
 If you have any questions about the Skynet brand guidelines, send us an email or [join us in Discord](https://discord.gg/skynetlabs).
 

@@ -1,6 +1,6 @@
 # Navigating the Skynet rebrand
 
-![](../.gitbook/assets/skynet-banner.png)
+![](../../.gitbook/assets/skynet-banner.png)
 
 With the launch of Skynet, Nebulous' focus shifted from building the leading decentralized data storage platform to enabling a user-controlled, truly decentralized internet. As a result, our company has completely [rebranded into Skynet Labs](https://blog.sia.tech/introducing-skynet-labs-434c852cce07), with all our attention on developing Skynet and its ecosystem.
 

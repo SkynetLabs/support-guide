@@ -18,6 +18,10 @@ This list will continue to grow as we add functionality to support things like a
 We're planning on making web portals easier to deploy and operate for technical users. We'd advise against deploying a public web portal yourself unless you have sufficient dev-ops experience and knowledge of local laws and regulations. Most users should access Skynet through a public portal like [Siasky.net](http://siasky.net/).
 {% endhint %}
 
+{% hint style="info" %}
+We've started making resources available in the Developer Documentation for [Running a Webportal](https://docs.siasky.net/webportal-management/). This is incomplete, but it can give you a sense of what running a web portal will look like very soon.
+{% endhint %}
+
 ## Getting Started
 
 To get started, check out the [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal) repo on Github. A comprehensive guide for setting up a web portal is available at [./setup-scripts/README.md](https://github.com/SkynetLabs/skynet-webportal/blob/master/setup-scripts/README.md).
@@ -26,5 +30,5 @@ To get started, check out the [SkynetLabs/skynet-webportal](https://github.com/S
 
 {% embed url="https://github.com/SkynetLabs/skynet-webportal/blob/master/setup-scripts/README.md" caption="Documentation for Setting up a Portal, including descriptions of each component" %}
 
-{% embed url="https://www.youtube.com/watch?v=Zx4hTrNfwuA&feature=youtu.be" caption="Video Overview of Portal Setup by Community Member lukehmcc" %}
+{% embed url="https://docs.siasky.net/webportal-management/" caption="Developer ocumentation for Running a Web Portal" %}
 
