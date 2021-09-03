@@ -21,7 +21,7 @@ When you visit a page that uses MySky, you may already be logged in! If you've u
 If you need additional permissions or are not logged into MySky, you will be requested to Login or Sign Up.
 
 {% hint style="warning" %}
-Safari deviates from standard browser security practices, and because of this, it is unsupported by MySky. We hope to find a work-around in the future.
+Safari Browser deviates from standard browser security practices, and because of this, it is unsupported by MySky. We hope to find a work-around in the future.
 {% endhint %}
 
 ### Signing Up
