@@ -1,4 +1,10 @@
-# FAQs
+---
+description: >-
+  How does decentralized file storage work with Skynet? This FAQ covers all your
+  basic questions.
+---
+
+# Skynet FAQs
 
 ## How long does data remain on Skynet?
 
@@ -6,13 +12,13 @@ Files uploaded to Skynet will remain available as long as a portal pins the skyf
 
 ## Is data uploaded and stored to Skynet encrypted?
 
-By default, data stored on Skynet is stored in plain-text. Communications on the network are encrypted and applications and users can encrypt their data before uploading it to Skynet. Also, because files are broken into pieces and erasure-coded, even plain-text data becomes broken apart and obfuscated when distributed between hosts.
+Skynet brings decentralized file storage to the mainstream, for anyone and everyone to benefit from. By default, all files stored on Skynet are stored in plain-text. Communications on the network are encrypted and applications and users can encrypt their data before uploading it to Skynet. Also, because files are broken into pieces and erasure-coded, even plain-text data becomes broken apart and obfuscated when distributed between hosts.
 
-## Is Skynet free? Who pays for storage on Skynet?
+## Is Skynet free? Who pays for decentralized file storage on Skynet?
 
 * Accessing Skynet is free, but there are paid user accounts that allow prioritized access.
 * Uploading files to Skynet is free, but without a user account, most portals will store your files for a minimum of 3 months.
-* Storage expenses are paid by Skynet Portals, which use a cryptocurrency called Siacoin on the Sia network.
+* Decentralized file storage expenses are paid by Skynet Portals, which use a cryptocurrency called Siacoin on the Sia network.
 * Portal operating costs are paid by operators, but we encourage users to support portal operators, developers, and content creators by signing up for a user account.
 * Skynet is open-source, so the code is available for anyone to freely use.
 
@@ -24,7 +30,7 @@ Not really. We say "censorship-resistant," because the infrastructure makes it e
 
 ## How fast is Skynet?
 
-New download code released in `siad 1.5.5` still needs to be tested for real-world latency, but streaming throughput can reach speeds of 1 Gbps. It is competitive with centralized services and out-performs decentralized storage competitors. The team is regularly developing optimizations to further increase the speeds of uploads and downloads.
+New download code released in `siad 1.5.5` still needs to be tested for real-world latency, but streaming throughput can reach speeds of 1 Gbps. It is competitive with centralized services and out-performs decentralized file storage competitors. The team is regularly developing optimizations to further increase the speeds of uploads and downloads.
 
 ## Is my data on Skynet secure?
 

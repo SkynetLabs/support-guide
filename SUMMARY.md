@@ -21,7 +21,7 @@
   * [Navigating the Skynet rebrand](key-concepts/skynet-brand-guidelines/skynet-rebrand.md)
 * [MySky](key-concepts/mysky.md)
 * [Homescreen](key-concepts/homescreen.md)
-* [FAQs](key-concepts/faqs.md)
+* [Skynet FAQs](key-concepts/faqs.md)
 
 ## The Technology
 
