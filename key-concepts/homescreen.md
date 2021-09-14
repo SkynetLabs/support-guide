@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Homescreen provides a way for users to save immutable versions of application front-ends. We see this as particularly necessary for the DeFi space for additional security and control over access to decentralized protocols and smart contracts.
+Homescreen provides a way for users to save immutable versions of application front-ends by saving a version of the app to their [MySky files](https://docs.siasky.net/skynet-topics/mysky-and-dacs/mysky-files). This means each user owns their copy of the app and is in complete control of version updates. We see this as particularly necessary for the DeFi space for additional security and control over access to decentralized protocols and smart contracts.
 
 Visit [https://homescreen.hns.siasky.net/](https://homescreen.hns.siasky.net/) to try out our initial release.
 
