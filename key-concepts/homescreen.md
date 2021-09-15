@@ -6,6 +6,10 @@ Homescreen provides a way for users to save immutable versions of application fr
 
 Visit [https://homescreen.hns.siasky.net/](https://homescreen.hns.siasky.net/) to try out our initial release.
 
+{% hint style="info" %}
+Homescreen is currently in Developer Preview mode. Lots more user-friendly features are coming soon!
+{% endhint %}
+
 ## Getting Started
 
 First, authenticate with [MySky](mysky.md) —if you don't have an account, you can "sign up" and you'll be given an account recovery phrase.
