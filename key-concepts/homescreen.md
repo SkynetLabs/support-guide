@@ -7,7 +7,7 @@ Homescreen provides a way for users to save immutable versions of application fr
 Visit [https://homescreen.hns.siasky.net/](https://homescreen.hns.siasky.net/) to try out our initial release.
 
 {% hint style="info" %}
-Homescreen is currently in Developer Preview mode. Lots more user-friendly features are coming soon!
+Homescreen is currently in Developer Preview mode. Lots more user-friendly features are coming soon! Developers might want to see the Developer-focused [Homescreen article](https://docs.siasky.net/integrations/homescreen).
 {% endhint %}
 
 ## Getting Started
