@@ -36,6 +36,8 @@ Finally, you can manually add a skylink to an application or any other skyfile u
 
 ## Additional Resources
 
+{% embed url="https://blog.sia.tech/announcing-homescreen-decentralized-frontends-for-web3-113a3564530d" %}
+
 {% embed url="https://www.youtube.com/watch?v=jOSXlAVeY7g" caption="Skynet Labs Founder David Vorick announces Homescreen at EthCC\[4\]" %}
 
 {% embed url="https://docs.siasky.net/integrations/homescreen" caption="Homescreen Documentation on our Developer Guide" %}
