@@ -34,7 +34,7 @@ You can also create a wonderfully custom name that represents you or your work. 
 
 ## Logo and Wordmark
 
-We’re a little more strict on this one. We’d prefer that your project not use the Skynet logo or wordmark directly in any capacity, but you can style on it as long as a normal user wouldn’t confuse it for the real thing.
+We’re a little more strict on this one. We’d prefer that your project not use the Skynet logo or wordmark directly in any capacity, but you can style on it as long as a normal user wouldn’t confuse it for the official Skynet designs.
 
 A good example is SkySpaces:  
 ![](https://files.helpdocs.io/obkhjggi1d/articles/v9ww0cthi5/1598558209852/sky-spaces-g-531-bd-028.png)
