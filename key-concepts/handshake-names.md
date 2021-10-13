@@ -8,7 +8,7 @@ Our full documentation is still being worked on. In the meantime, here is a quic
 
 Handshake is a naming protocol that’s backward-compatible with the existing DNS system. It does not replace the DNS protocol, but instead expands the root zone file where TLD ownership information is stored and the root servers with a distributed and decentralized blockchain-based system, which nobody controls and anybody can use. This allows the root zone to be uncensorable, permissionless, and free of gatekeepers like ICANN.
 
-Every peer in the Handshake network cryptographically validates and manages the root zone, which also removes the need for the Certificate Authority system \(CAs\) entirely. Names are logged on the Handshake blockchain, which is essentially one big distributed zone file that anyone has the right to add an entry in.
+Every peer in the Handshake network cryptographically validates and manages the root zone, which also removes the need for the Certificate Authority system (CAs) entirely. Names are logged on the Handshake blockchain, which is essentially one big distributed zone file that anyone has the right to add an entry in.
 
 ![Chart from Namebase.io Documentation](../.gitbook/assets/traditional-dns-vs-handshake-dns-table.png)
 
@@ -46,13 +46,12 @@ Using a `sia://` record may be easier at first, but if you're linking to immutab
 
 ## Does Your HNS Name use Skynet?
 
-{% embed url="https://codesandbox.io/s/skynet-guide-widgets-jp5wt?codemirror=0&view=preview&fontsize=12&hidenavigation=1&theme=light&hidedevtools=1&initialpath=%2F%23%2Fhns-lookup" caption="" %}
+{% embed url="https://codesandbox.io/s/skynet-guide-widgets-jp5wt?codemirror=0&fontsize=12&hidedevtools=1&hidenavigation=1&initialpath=%2F%23%2Fhns-lookup&theme=light&view=preview" %}
 
 ## Further Reading
 
-{% embed url="https://learn.namebase.io/about-handshake/about-handshake" caption="" %}
+{% embed url="https://learn.namebase.io/about-handshake/about-handshake" %}
 
-{% embed url="https://blog.sia.tech/skynet-handshake-d5d16e6b632f" caption="" %}
+{% embed url="https://blog.sia.tech/skynet-handshake-d5d16e6b632f" %}
 
-{% embed url="https://learn.namebase.io/community-discussions/developing-on-handshake" caption="" %}
-
+{% embed url="https://learn.namebase.io/community-discussions/developing-on-handshake" %}
