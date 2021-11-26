@@ -9,6 +9,10 @@ description: >-
 
 ## New user sign up
 
+{% hint style="info" %}
+If you've already got a Skynet account, [we've got your steps right here](skynet-black-friday-promo.md#upgrade-an-existing-account).
+{% endhint %}
+
 Visit our [sign-up](https://account.siasky.net/auth/registration) page to start the process and create your account. Follow the on-screen instructions.
 
 * Click the link above and enter an email address and password. Click **Sign up**.
