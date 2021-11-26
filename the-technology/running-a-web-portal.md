@@ -15,7 +15,7 @@ The web portal consists of:
 This list will continue to grow as we add functionality to support things like accounts and payment processing.
 
 {% hint style="danger" %}
-We're planning on making web portals easier to deploy and operate for technical users. We'd advise against deploying a public web portal yourself unless you have sufficient dev-ops experience and knowledge of local laws and regulations. Most users should access Skynet through a public portal like [Siasky.net](http://siasky.net/).
+We're planning on making web portals easier to deploy and operate for technical users. We'd advise against deploying a public web portal yourself unless you have sufficient dev-ops experience and knowledge of local laws and regulations. Most users should access Skynet through a public portal like [Siasky.net](http://siasky.net).
 {% endhint %}
 
 {% hint style="info" %}
@@ -28,7 +28,10 @@ To get started, check out the [SkynetLabs/skynet-webportal](https://github.com/S
 
 ## Further Reading
 
-{% embed url="https://github.com/SkynetLabs/skynet-webportal/blob/master/setup-scripts/README.md" caption="Documentation for Setting up a Portal, including descriptions of each component" %}
+{% embed url="https://github.com/SkynetLabs/skynet-webportal/blob/master/setup-scripts/README.md" %}
+Documentation for Setting up a Portal, including descriptions of each component
+{% endembed %}
 
-{% embed url="https://docs.siasky.net/webportal-management/" caption="Developer ocumentation for Running a Web Portal" %}
-
+{% embed url="https://docs.siasky.net/webportal-management/" %}
+Developer ocumentation for Running a Web Portal
+{% endembed %}

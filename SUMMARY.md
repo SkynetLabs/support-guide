@@ -37,4 +37,4 @@
 * [Understanding Data Usage](siasky.net-accounts/understanding-data-usage.md)
 * [Portal Account FAQs](siasky.net-accounts/portal-account-faqs.md)
 * [Developer API](siasky.net-accounts/developer-api.md)
-
+* [Skynet Black Friday Promo](siasky.net-accounts/skynet-black-friday-promo.md)
