@@ -41,7 +41,7 @@ Complete your payment details and you're done. Enjoy Skynet!
 
 ## Upgrade an existing account
 
-If you've already got a Skynet Account, you can upgrade to Pro for 80% off for 12 months no matter what tier you are currently using.
+If you've already got a Skynet Account, you can switch to Pro for 80% off for 12 months no matter what tier you are currently using. If you're already on Pro, follow these steps to pay less for a whole year!
 
 * Go to your Skynet Dashboard and click **Check upgrade options**.
 
@@ -62,6 +62,10 @@ You'll see a Billing page detailing your current plan, along with a button to up
 You'll see the other plan options.
 
 * Click **Continue** next to Skynet Pro.
+
+{% hint style="warning" %}
+If you already have a Pro account, you need to switch to a different account tier, confirm it, and then switch BACK to Skynet Pro to apply the promo code. We recommend downgrading to Skynet Plus temporarily before picking Skynet Pro again.
+{% endhint %}
 
 ![](<../.gitbook/assets/Available plans.png>)
 
